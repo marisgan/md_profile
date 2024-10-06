@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @kopf8
 - 👀 I’m interested in coding & travelling
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on my first projects
-- 📫 How to reach me: - 
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on different projects
+- 📫 How to reach me: [@kopf82](https://t.me/kopf82) in Telegram
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: 
 
 <!---
 kopf8/kopf8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
