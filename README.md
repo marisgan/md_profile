@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=kopf8&style=flat-square&color=blue" alt=""/>
 </div>
 
-- 👋 Hi, I’m @kopf8
+- 👋 Hi, I’m Maria Kirsanova
 - 👀 I’m interested in coding & travelling
 - 📈📊 I’m currently learning Data Analytics
 - 🤝 I’m looking to collaborate on different projects
