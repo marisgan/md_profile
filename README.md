@@ -26,6 +26,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="Yaml" alt="Yaml" width="40" height="40"/>&nbsp;
 </div>
+<div>
+  <img src="https://hub.knime.com/_nuxt/KNIME_Logo_gray.WrmJyqou.svg" title="Knime" alt="Knime" width="100" height="40"/>&nbsp;
+  <img src="https://h2o.ai/content/experience-fragments/h2o/us/en/site/footer/master/_jcr_content/root/container/footer/logo.coreimg.svg/1721403586978/h2o-logo.svg" title="H2O.ai" alt="H2O.ai" width="40" height="40"/>&nbsp;
+  <img src="https://brandbook.loginom.ru/attach/01-logotype/logotype_loginom/logotype_loginom.svg" title="Loginom" alt="Loginom" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/ru/0/06/Tableau_logo.svg" title="Tableau" alt="Tableau" width="100" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+</div>
 
 <!---
 kopf8/kopf8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
